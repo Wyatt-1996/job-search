@@ -15,12 +15,8 @@ nav {
     margin-bottom: 33px;
 }
 
-.job {
-    border: 1px solid rgb(38, 166, 154);
-    border-radius: 3px;
-    padding: 10px;
-    margin: 10px;
-    background-color: rgb(237, 237, 237);
+.collapsible {
+    border-top: none;
 }
 
 /* weather */
